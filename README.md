@@ -1,0 +1,1 @@
+ Rix Coin Smart Contract
